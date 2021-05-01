@@ -10,6 +10,6 @@ Z-26
 
 
 
-if the encoded code numericals is given, find total decodable messages
+if the encoded code numerical is given, find total decodable messages
 
 
